@@ -1,2 +1,2 @@
--js ../server/src/main/webapp/static/js/chat.js
--main chat.Main
+-js ../server/src/main/webapp/static/js/audio.js
+-main audio.Main

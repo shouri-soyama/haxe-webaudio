@@ -1,13 +1,13 @@
-package chat;
+package audio;
 
 import lib.elm.App;
 import lib.elm.Signal;
 
-import chat.Action;
-import chat.Model;
-import chat.TaskExecutor;
-import chat.Update;
-import chat.View;
+import audio.Action;
+import audio.Model;
+import audio.TaskExecutor;
+import audio.Update;
+import audio.View;
 
 class Main {
 	public static function main() {
